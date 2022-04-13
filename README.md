@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Vipin Saini
+#### Still Studying
+![Still Studying](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Vipn from India, and I still studying Information technology.
 I really enjoy learning languages and frameworks like React, C++, C, Python, HTML, Java, Javascript, CSS.
 
-[![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipinsaini21)](https://github.com/vipinsaini/github-readme-stats)
+Skills: C++ / C / JAVA / PYTHON / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
