@@ -5,7 +5,7 @@ I really enjoy learning languages and frameworks like React, C++, C, Python, HTM
 
 ### Skills
 
-* C++
+* C++ <img src='https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg' height='40'>
 * C
 * JAVA
 * PYTHON
