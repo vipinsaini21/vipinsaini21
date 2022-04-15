@@ -1,6 +1,6 @@
 ### Hi there 👋, Vipin Saini
 
-I'm Vipn from India, and I still studying Information technology.
+I'm Vipn from India, and I am still studying Information technology.
 I really enjoy learning languages and frameworks like React, C++, C, Python, HTML, Java, Javascript, CSS.
 
 ### Skills
