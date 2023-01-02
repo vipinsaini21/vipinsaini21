@@ -1,25 +1,18 @@
-### Hi there 👋, Vipin Saini
-
-I'm Vipn from India, and I am still studying Information technology.
-I really enjoy learning languages and frameworks like React, C++, C, Python, HTML, Java, Javascript, CSS.
-
-### Skills
-
-* C++ 
-* C
-* JAVA
-* PYTHON
-* REACT
-* JS
-* HTML
-* CSS
-
-- 🔭 I’m currently working on My Career 
-
-### Connect With me 
+# 💫 About Me:
+I'm Vipn from India, and I am still studying Information technology. I really enjoy learning different languages and frameworks.
 
 
-[<img src='https://cdn3.iconfinder.com/data/icons/inficons/512/github.png' height='40'>](https://github.com/vipinsaini21)  [<img src='https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vipinsaini21)  [<img src='https://icon-library.com/images/instagram-circle-icon-png/instagram-circle-icon-png-18.jpg' alt='instagram' height='40'>](https://www.instagram.com/vipin_saini_21/)  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vipin_saini_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vipinsaini21) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vipinsaini21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vipinsaini21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsaini21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=vipinsaini21&icon=2&color=1)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
