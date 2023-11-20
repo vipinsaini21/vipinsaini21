@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vipn from India, and I am still studying Information technology. I really enjoy learning different languages and frameworks.
+I'm Vipin from India, and I am still studying Information technology. I really enjoy learning different languages and frameworks.
 
 
 ## 🌐 Socials:
