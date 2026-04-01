@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipin Saini</h1>
-# 💫 About Me:
+
 🔭 I’m currently working as Associate Analyst at Wipro<br>👨‍💻 All of my projects are available at https://vipinsaini.vercel.app/<br>
 
 ## 🌐 Socials:
